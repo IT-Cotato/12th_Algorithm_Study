@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BJ_2580_0930 {
+public class Main {
     static int[][] graph;
     static int length;
     public static void main(String[] args) throws IOException {

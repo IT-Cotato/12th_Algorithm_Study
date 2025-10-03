@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class BJ_1182_0930 {
+public class Main {
     public static int S;
     public static int N;
     public static int count = 0;

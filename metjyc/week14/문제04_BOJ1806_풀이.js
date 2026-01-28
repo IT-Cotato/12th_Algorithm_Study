@@ -13,7 +13,7 @@ let sum = 0;
 let ans = Infinity;
 
 for (let right = 0; right < N; right++) {
-  sum += arr[i];
+  sum += arr[right];
 
   while (sum >= S) {
     ans = Math.min(ans, right - left + 1);
